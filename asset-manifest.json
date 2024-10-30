@@ -1,23 +1,15 @@
 {
   "files": {
-    "main.css": "/ncueaial/static/css/main.5e84ea78.css",
-    "main.js": "/ncueaial/static/js/main.dc4e1804.js",
-    "static/js/511.5a9fc2b3.chunk.js": "/ncueaial/static/js/511.5a9fc2b3.chunk.js",
-    "static/media/fa-solid-900.ttf": "/ncueaial/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/ncueaial/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/ncueaial/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/ncueaial/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/ncueaial/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/ncueaial/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/ncueaial/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/ncueaial/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/ncueaial/index.html",
-    "main.5e84ea78.css.map": "/ncueaial/static/css/main.5e84ea78.css.map",
-    "main.dc4e1804.js.map": "/ncueaial/static/js/main.dc4e1804.js.map",
-    "511.5a9fc2b3.chunk.js.map": "/ncueaial/static/js/511.5a9fc2b3.chunk.js.map"
+    "main.css": "/Artificial-Intelligence-Application-Labratory-Website/static/css/main.bf8eb1a3.css",
+    "main.js": "/Artificial-Intelligence-Application-Labratory-Website/static/js/main.384f0b37.js",
+    "static/js/453.547e5e14.chunk.js": "/Artificial-Intelligence-Application-Labratory-Website/static/js/453.547e5e14.chunk.js",
+    "index.html": "/Artificial-Intelligence-Application-Labratory-Website/index.html",
+    "main.bf8eb1a3.css.map": "/Artificial-Intelligence-Application-Labratory-Website/static/css/main.bf8eb1a3.css.map",
+    "main.384f0b37.js.map": "/Artificial-Intelligence-Application-Labratory-Website/static/js/main.384f0b37.js.map",
+    "453.547e5e14.chunk.js.map": "/Artificial-Intelligence-Application-Labratory-Website/static/js/453.547e5e14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e84ea78.css",
-    "static/js/main.dc4e1804.js"
+    "static/css/main.bf8eb1a3.css",
+    "static/js/main.384f0b37.js"
   ]
 }
