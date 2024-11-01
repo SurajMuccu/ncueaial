@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ncueaial/static/css/main.5f523b80.css",
-    "main.js": "/ncueaial/static/js/main.115d229d.js",
+    "main.css": "/ncueaial/static/css/main.257e77d0.css",
+    "main.js": "/ncueaial/static/js/main.c47d6716.js",
     "static/js/511.5a9fc2b3.chunk.js": "/ncueaial/static/js/511.5a9fc2b3.chunk.js",
     "static/media/fa-solid-900.ttf": "/ncueaial/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/ncueaial/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/ncueaial/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/ncueaial/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/ncueaial/index.html",
-    "main.5f523b80.css.map": "/ncueaial/static/css/main.5f523b80.css.map",
-    "main.115d229d.js.map": "/ncueaial/static/js/main.115d229d.js.map",
+    "main.257e77d0.css.map": "/ncueaial/static/css/main.257e77d0.css.map",
+    "main.c47d6716.js.map": "/ncueaial/static/js/main.c47d6716.js.map",
     "511.5a9fc2b3.chunk.js.map": "/ncueaial/static/js/511.5a9fc2b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f523b80.css",
-    "static/js/main.115d229d.js"
+    "static/css/main.257e77d0.css",
+    "static/js/main.c47d6716.js"
   ]
 }
